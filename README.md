@@ -1,4 +1,4 @@
-## ng2-cmp
+# ng2-cmp
 
 Exports a `@Component` decorator that allows you to consume templates and styles by using their relative URLs:
 
