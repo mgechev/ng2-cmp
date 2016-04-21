@@ -1,0 +1,16 @@
+{
+  "name": "ng2-cmp",
+  "version": "1.0.1",
+  "description": "A component recorator which allows definition of relative paths by default.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc --project ."
+  },
+  "author": "Minko Gechev <mgechev@gmail.com>",
+  "license": "MIT",
+  "typings": "./index.d.ts",
+  "devDependencies": {
+    "typescript": "^1.8.10"
+  }
+}

@@ -1,0 +1,6 @@
+*.js
+*.d.ts
+*.map
+typings
+node_modules
+npm-debug.log
